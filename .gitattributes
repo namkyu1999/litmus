@@ -1,6 +1,6 @@
 *.go linguist-language=Go
 *.sh linguist-language=Shell
 *.js linguist-language=JavaScript
-*.html linguist-language=HTML linguist-detectable=false
-*.tsx linguist-language=TypeScript linguist-detectable=false
-*.ts linguist-language=TypeScript linguist-detectable=false
+*.html linguist-detectable=false
+*.tsx linguist-detectable=false
+*.ts linguist-detectable=false
