@@ -2,5 +2,3 @@
 *.sh linguist-language=Shell
 *.js linguist-language=JavaScript
 *.html linguist-detectable=false
-*.ts linguist-detectable=false
-*.tsx linguist-detectable=false
