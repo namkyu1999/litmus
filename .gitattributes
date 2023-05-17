@@ -1,6 +1,5 @@
 *.go linguist-language=Go
 *.sh linguist-language=Shell
 *.js linguist-language=JavaScript
-litmus-portal/frontend/* linguist-vendored
-mkdocs/* linguist-vendored
-
+litmus-portal/frontend/* linguist-vendored=true
+mkdocs/* linguist-vendored=true
