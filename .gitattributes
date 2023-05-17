@@ -2,4 +2,3 @@
 *.sh linguist-language=Shell
 *.js linguist-language=JavaScript
 litmus-portal/frontend/* linguist-vendored=true
-mkdocs/* linguist-vendored=true
