@@ -1,4 +1,6 @@
 *.go linguist-language=Go
 *.sh linguist-language=Shell
 *.js linguist-language=JavaScript
-litmus-portal/frontend/* linguist-vendored
+*.html linguist-detectable=false
+*.tsx linguist-detectable=false
+*.ts linguist-detectable=false
